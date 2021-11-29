@@ -4,7 +4,7 @@
  * Description: add-ogm-toorder
  * Version: 1.1
  * Text Domain: add-ogm-toorder
- * Author: Enigma Tech
+ * Author: Gevorg Minasyab
  */
  
  add_action( 'woocommerce_new_order', 'add_ogm_to_order' );
